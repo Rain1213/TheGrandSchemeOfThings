@@ -5,3 +5,9 @@ The Grand Scheme of Things is a video game. There are 4 entities, God, Time, Tru
 
 Watch the Gameplay/Trailer here:
 https://www.youtube.com/watch?v=BIx0HM_9wcU&feature=emb_title
+
+<img align="center" alt="output1" width="60%" src="https://raw.githubusercontent.com/Rain1213/TheGrandSchemeOfThings/master/screenshots/gsot1.jpg" />
+<img align="center" alt="output1" width="60%" src="https://raw.githubusercontent.com/Rain1213/TheGrandSchemeOfThings/master/screenshots/gsot2.jpg" />
+<img align="center" alt="output1" width="60%" src="https://raw.githubusercontent.com/Rain1213/TheGrandSchemeOfThings/master/screenshots/gsot3.jpg" />
+<img align="center" alt="output1" width="60%" src="https://raw.githubusercontent.com/Rain1213/TheGrandSchemeOfThings/master/screenshots/gsot4.jpg" />
+<img align="center" alt="output1" width="60%" src="https://raw.githubusercontent.com/Rain1213/TheGrandSchemeOfThings/master/screenshots/gsot5.jpg" />
